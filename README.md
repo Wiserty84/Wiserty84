@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Wiserty84
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in HTML and CSS
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me: E-Mail me.
 
 <!---
